@@ -1,0 +1,6 @@
+uk\bestbuy\crudtest\ProductCRUDTest.class
+uk\bestbuy\testbase\TestBase.class
+uk\bestbuy\testsuite\ProductTest.class
+uk\bestbuy\crudtest\StoresCRUDTest.class
+uk\bestbuy\testsuite\StoresTest.class
+uk\bestbuy\AppTest.class

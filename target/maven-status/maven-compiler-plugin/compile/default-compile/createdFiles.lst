@@ -1,0 +1,8 @@
+uk\bestbuy\steps\ProductsSteps.class
+uk\bestbuy\pojo\StoresPojo.class
+uk\bestbuy\contants\EndPoints.class
+uk\bestbuy\utils\TestUtils.class
+uk\bestbuy\pojo\ProductsPojo.class
+uk\bestbuy\steps\StoreSteps.class
+uk\bestbuy\utils\PropertyReader.class
+uk\bestbuy\App.class
